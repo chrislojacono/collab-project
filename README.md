@@ -8,3 +8,7 @@
 * A spoiler blocker (suggested implementation: browser extension). Short of implementing a total social media/internet/watercooler chat ban, it can be difficult to avoid seeing spoilers for your favorite TV show… especially if that TV show is as popular as Game of Thrones. Create a browser extension that removes all mentions of your favorite show from any webpage loaded in your browser… or replaces them with cute pictures of puppies.
 
 * Music suggestion tool (suggested implementation: build a wrapper for the Spotify API). Create a tool that tracks the music you listen to and generates a playlist with similar qualities, but of songs you haven’t heard before. The Spotify API provides all of the tools needed to extract what you’ve listened to and create a playlist — the recommendation engine is up to you!
+
+* Microlearning app (suggested implementation: web or mobile app). Build an application that sends you one page per day about something you want to learn. This could be a random page from Wikipedia, a page of React documentation, a Kanji character, or a page from the CIA World Factbook.
+
+* Slack bot (suggested implementation: Slack API). If you or your team use the popular chat app Slack, build a bot to make some aspect of your (or your team’s) life easier. Ideas: a coffee order bot, a bot that reports daily on the number of commits made to your team repos, or a daily stand-up reminder bot.
