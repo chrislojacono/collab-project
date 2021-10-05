@@ -12,3 +12,4 @@
 * Microlearning app (suggested implementation: web or mobile app). Build an application that sends you one page per day about something you want to learn. This could be a random page from Wikipedia, a page of React documentation, a Kanji character, or a page from the CIA World Factbook.
 
 * Slack bot (suggested implementation: Slack API). If you or your team use the popular chat app Slack, build a bot to make some aspect of your (or your team’s) life easier. Ideas: a coffee order bot, a bot that reports daily on the number of commits made to your team repos, or a daily stand-up reminder bot.
+[Source](https://www.codementor.io/@npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)
