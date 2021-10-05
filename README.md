@@ -13,3 +13,9 @@
 
 * Slack bot (suggested implementation: Slack API). If you or your team use the popular chat app Slack, build a bot to make some aspect of your (or your team’s) life easier. Ideas: a coffee order bot, a bot that reports daily on the number of commits made to your team repos, or a daily stand-up reminder bot.
 [Source](https://www.codementor.io/@npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)
+
+* Yahoo type website with news web scraping, customizable feed, weather widget
+ 
+* Joke APi Slack Bot
+
+[Public APIs](https://publicapi.dev/)
